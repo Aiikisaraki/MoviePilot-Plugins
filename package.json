@@ -6,7 +6,7 @@
     "v2": true,
     "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/anistrm.png",
     "author": "honue",
-    "level": 2
+    "level": 1
   },
   "AdaptiveIntroSkip": {
     "name": "自适应IntroSkip",
